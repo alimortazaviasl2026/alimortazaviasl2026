@@ -16,3 +16,9 @@ Currently learning and improving my skills in modern Front-End development.
 - React practical libraries 
 - Bootstrap
 - Git & GitHub & gitLab
+
+## 🎯 Career Goal
+
+I am looking for a Front-End Development internship where I can
+apply my React.js and JavaScript skills, gain real-world experience,
+and continue growing as a developer.
