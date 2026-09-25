@@ -39,9 +39,9 @@ I'm currently building real-world projects to strengthen my development skills.
 
   ### Socials
 
-  <a href='t.me/alimortazaviasl2026'>
-    <img src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/icons8-telegram-logo.gif?raw=true'/>
+  <a href='instagram.com/alimortazaviasl2026'>
+    <img width='60px' height='60px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/icons8-instagram-logo-94.png?raw=true'/>
   </a>
-  <a href=''>
-    <img src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/icons8-telegram-logo.gif?raw=true'/>
+  <a href='t.me/alimortazaviasl2026'>
+    <img width='50px' height='50px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/icons8-telegram-logo.gif?raw=true'/>
   </a>
