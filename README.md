@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 👋 I am Ali Mortazavi .
 
-<!--
-**alimortazaviasl2026/alimortazaviasl2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width='100%' height='350px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/front.jpg?raw=true'/>
 
-Here are some ideas to get you started:
+<Br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am a **Front-End Developer**🧑‍💻
+<br/>
+
+### 👋 About Me
+
+I'm a Front-End Developer passionate about creating modern and responsive web applications.
+I work mainly with **HTML, CSS, JavaScript, React, Bootstrap, and MUI**.
+I enjoy learning new technologies and improving my problem-solving skills.
+I'm currently building real-world projects to strengthen my development skills.
+🚀 My goal is to become a professional Front-End Developer and create high-quality digital experiences.
+
+
+
+### 🛠️ my tech stacks
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Bootstrap
+- Material UI (MUI)
+- React Router
+- Responsive Web Design
+- Git & GitHub
+
+--- 
+
+### 🗣️ languages 
+- 🌟 English
+- 🌟 Persian
+- 🌟 French
