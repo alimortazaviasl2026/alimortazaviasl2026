@@ -34,3 +34,11 @@ I'm currently building real-world projects to strengthen my development skills.
 - 🌟 English
 - 🌟 Persian
 - 🌟 French
+
+  <br/>
+
+  ### Socials
+
+  <a href=''>
+    <img src=''/>
+  </a>
