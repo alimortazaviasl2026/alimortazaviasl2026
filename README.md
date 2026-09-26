@@ -47,11 +47,16 @@ I'm currently building real-world projects to strengthen my development skills.
    - type: 'third language'
  
 
-  ### Socials
+  ### 📲 Socials
 
   <a href='instagram.com/alimortazaviasl2026'>
-    <img width='60px' height='60px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/icons8-instagram-logo-94.png?raw=true'/>
+    <img width='70px' height='70px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/icons8-instagram-logo-94.png?raw=true'/>
   </a>
   <a href='t.me/alimortazaviasl2026'>
-    <img width='50px' height='50px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/icons8-telegram-logo.gif?raw=true'/>
-  </a>
+    <img width='70px' height='70px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/icons8-telegram-64.png?raw=true'/>
+  </a> 
+
+  ---
+
+
+  [Me👌](github.com/alimortazaviasl2026.github.io/Portfolio)
