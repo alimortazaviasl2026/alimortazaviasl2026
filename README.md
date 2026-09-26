@@ -32,14 +32,14 @@ I'm currently building real-world projects to strengthen my development skills.
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
 </div>
 
---- 
+
 <br/>
 
 ### 📊 my stats
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=alimortazaviasl2026)](https://github.com/stats-organization/github-stats-extended)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img width='100%' height='250px' src='https://github-stats-extended.vercel.app/api?username=alimortazaviasl2026'/>
 
+<br/>
 
 ### 🗣️ languages 
  - English
@@ -54,6 +54,8 @@ I'm currently building real-world projects to strengthen my development skills.
    - Value : 30%
    - type: 'third language'
  
+
+<Br/>
 
   ### 📲 Socials
 
