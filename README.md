@@ -1,4 +1,4 @@
-## Hi there 👋 I am Ali Mortazavi .
+## Hi there 👋 I am Ali Mortazavi . 
 <div align='center' >
 <img  width='40%' height='250px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/download%20(front-end).jpg?raw=true'/>
 
@@ -56,7 +56,7 @@ I'm currently building real-world projects to strengthen my development skills.
     <img width='70px' height='70px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/icons8-telegram-64.png?raw=true'/>
   </a> 
 
-  ---
+  
 
 
-  [Me👌](github.com/alimortazaviasl2026.github.io/Portfolio)
+ 
