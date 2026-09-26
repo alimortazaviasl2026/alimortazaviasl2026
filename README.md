@@ -33,6 +33,14 @@ I'm currently building real-world projects to strengthen my development skills.
 </div>
 
 --- 
+<br/>
+
+### 📊 my stats
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=alimortazaviasl2026)](https://github.com/stats-organization/github-stats-extended)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### 🗣️ languages 
  - English
    - Value : 70%
