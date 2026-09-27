@@ -1,8 +1,9 @@
 ## Hi there 👋 I am Ali Mortazavi . 
 <div align='center' >
-<img  width='40%' height='250px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/download%20(front-end).jpg?raw=true'/>
+<img  width='30%' height='250px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/download%20(front-end).jpg?raw=true'/>
+<img  width='30%' height='250px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/download%20(front-end).jpg?raw=true'/>
 
-<img  width='40%' height='250px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/front.jpg?raw=true'/>
+<img  width='30%' height='250px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/front.jpg?raw=true'/>
 </div>
 
 <h4 align='center' > Front-End Developer🧑‍💻</h4> 
