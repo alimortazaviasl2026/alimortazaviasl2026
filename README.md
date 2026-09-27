@@ -1,4 +1,9 @@
-## Hi there 👋 I am Ali Mortazavi . 
+## Hi there 👋 I am Ali Mortazavi .
+
+
+<img  width='50%' height='200px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/Happy%20Game%20GIF%20by%20Scaler.gif?raw=true'/>
+
+
 <div align='center' >
 <img  width='30%' height='250px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/download%20(front-end).jpg?raw=true'/>
 <img  width='30%' height='250px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/c0493597-e975-4850-99bd-3263e292fdb7.webp?raw=true'/>
