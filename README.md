@@ -53,21 +53,19 @@ I'm currently building real-world projects to strengthen my development skills.
 
 <br/>
 
-### 🗣️ languages 
- - English
-   - Value : 70%
-   - type: 'second language'
-    
- - Persian
-   - Value : 100%
-   - type: 'First language'
-    
- - French
-   - Value : 30%
-   - type: 'third language'
- 
+
+### 🌍 Languages
+
+| Language | Level |
+|----------|-------|
+| English | advanced |
+| Persian | Native |
+| French | basic |
 
 <Br/>
+
+ 
+
 
   ### 📲 Socials
 
