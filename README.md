@@ -1,8 +1,14 @@
 ## Hi there 👋 I am Ali Mortazavi .
 
+ <h4 align='center' > Front-End Developer🧑‍💻</h4> 
+<br/>
 
-<img  width='50%' height='200px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/Happy%20Game%20GIF%20by%20Scaler.gif?raw=true'/>
+<div  align='center'>
+ 
+<img width='50%' height='200px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif?raw=true'/>
+</div>
 
+<br/>
 
 <div align='center' >
 <img  width='30%' height='250px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/download%20(front-end).jpg?raw=true'/>
@@ -11,8 +17,8 @@
 <img  width='30%' height='250px' src='https://github.com/alimortazaviasl2026/alimortazaviasl2026/blob/master/front.jpg?raw=true'/>
 </div>
 
-<h4 align='center' > Front-End Developer🧑‍💻</h4> 
-<br/>
+
+<Br/>
 
 #### 👋 About Me
 
