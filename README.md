@@ -18,7 +18,12 @@
 </div>
 
 
-<Br/>
+<Br/> 
+
+
+
+
+
 
 #### 👋 About Me
 
@@ -29,6 +34,8 @@ I'm currently building real-world projects to strengthen my development skills.
 🚀 My goal is to become a professional Front-End Developer and create high-quality digital experiences.</p>
 
 <br/>
+
+
 
 ### 🛠️ my skills
 
@@ -64,7 +71,7 @@ I'm currently building real-world projects to strengthen my development skills.
 
 <Br/>
 
- 
+ A ❤️`Creative` `Problem Solver` `Self-Motivated` `Team Player` `Adaptable` `Passionate`❤️ Programmer💪
 
 
   ### 📲 Socials
